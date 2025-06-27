@@ -13,6 +13,7 @@ namespace Git_Demo
         public string description;
         public decimal price;
         public int quantity;
+        public string category;
 
     }
 }
